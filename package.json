@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "parcel dz-2.html --open",
+    "build": "parcel build dz-2.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitrySergeev1982/Dz-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitrySergeev1982/Dz-2/issues"
+  },
+  "homepage": "https://github.com/DmitrySergeev1982/Dz-2#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
