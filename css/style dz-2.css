@@ -1,0 +1,44 @@
+body {
+    background-image: url("../img/5.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    width: 700px;
+    margin: 0 auto;
+
+}
+h1 {
+    background: rgba(175, 174, 173, 0.5);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    
+}
+
+.text {
+    border-radius: 20px 0 20px 0;
+    margin: 20px 0;
+    padding: 5px 50px 30px 20px;
+}
+
+.text h2 {
+    color: rgb(236, 178, 106);
+    text-align: center;
+}
+
+.text a {
+    color: rgb(184, 28, 28);
+    margin: 550px;
+}
+
+.text img {
+    width: 30%;
+}
+
+
+
+
+
+
+
